@@ -1,0 +1,26 @@
+{
+  "name": "@Syforce/test-package",
+  "version": "1.0.0",
+  "description": "magiiiiiiiiiic",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syforce/test-package.git"
+  },
+  "publishConfig": {
+   "@Syforce:registry": "https://npm.pkg.github.com"
+ },
+  "keywords": [
+    "test",
+    "me"
+  ],
+  "author": "Syforce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Syforce/test-package/issues"
+  },
+  "homepage": "https://github.com/Syforce/test-package#readme"
+}
